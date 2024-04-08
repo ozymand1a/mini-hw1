@@ -1,0 +1,7 @@
+[core]
+    remote = my_remote
+[cache]
+    type = "hardlink,symlink"
+['remote "my_remote"']
+    url = ssh://91.206.15.25/home/h.petrov/dvc_files
+    user = h.petrov
